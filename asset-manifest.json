@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/seat/static/css/main.71128dc3.chunk.css",
+    "main.js": "/seat/static/js/main.e9a73b4c.chunk.js",
+    "main.js.map": "/seat/static/js/main.e9a73b4c.chunk.js.map",
+    "runtime-main.js": "/seat/static/js/runtime-main.17384b6a.js",
+    "runtime-main.js.map": "/seat/static/js/runtime-main.17384b6a.js.map",
+    "static/js/2.9404c97e.chunk.js": "/seat/static/js/2.9404c97e.chunk.js",
+    "static/js/2.9404c97e.chunk.js.map": "/seat/static/js/2.9404c97e.chunk.js.map",
+    "index.html": "/seat/index.html",
+    "precache-manifest.186987f6c9c59f666225592e1c18eacc.js": "/seat/precache-manifest.186987f6c9c59f666225592e1c18eacc.js",
+    "service-worker.js": "/seat/service-worker.js",
+    "static/css/main.71128dc3.chunk.css.map": "/seat/static/css/main.71128dc3.chunk.css.map",
+    "static/js/2.9404c97e.chunk.js.LICENSE.txt": "/seat/static/js/2.9404c97e.chunk.js.LICENSE.txt",
+    "static/media/Login.css": "/seat/static/media/img.ff1287a8.jpg",
+    "static/media/App.css": "/seat/static/media/c.05377515.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17384b6a.js",
+    "static/js/2.9404c97e.chunk.js",
+    "static/css/main.71128dc3.chunk.css",
+    "static/js/main.e9a73b4c.chunk.js"
+  ]
+}
